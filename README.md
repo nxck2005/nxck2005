@@ -1,6 +1,6 @@
-# Hi there, I'm Nishchal Ravi! 
+# hello, world 
 
-Welcome to my GitHub profile! I'm a sophomore student in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning. I'm passionate about systems development, and low level design.
+I'm a sophomore student in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning. I'm passionate about systems development, and low level design.
 
 ## About Me
 
