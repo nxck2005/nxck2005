@@ -12,6 +12,5 @@ Sophomore student in Computer Science and Engineering with a specialization in A
 
 Open to collaborating on interesting projects and learning new things. Feel free to reach out!
 
-
 > *"What I cannot create, I do not understand"*  
 > *— Richard P. Feynman*
