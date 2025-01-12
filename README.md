@@ -1,5 +1,3 @@
-# $ strace thoughts
-
 Sophomore student in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning. Passionate about systems development, and low level design.
 
 ## About Me
