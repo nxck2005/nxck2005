@@ -1,6 +1,6 @@
 # hello, world 
 
-I'm a sophomore student in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning. I'm passionate about systems development, and low level design.
+Sophomore student in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning. Passionate about systems development, and low level design.
 
 ## About Me
 
@@ -12,4 +12,6 @@ I'm a sophomore student in Computer Science and Engineering with a specializatio
 
 Open to collaborating on interesting projects and learning new things. Feel free to reach out!
 
-> “What I cannot create, I do not understand” - Richard P. Feynman
+
+> *"What I cannot create, I do not understand"*  
+> *— Richard P. Feynman*
