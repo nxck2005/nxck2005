@@ -2,7 +2,7 @@ Sophomore student, passionate about systems development, and low level design.
 
 ## About Me
 
-- 🎓 **Education**: Pursuing a Bachelor's degree in Computer Science and Engineering with a specialisation in artificial intelligence and machine learning.
+- 🎓 **Education**: Pursuing a Bachelor's degree in Computer Science and Engineering.
 - 💻 **Programming Languages**: C/C++, Python, Java, and Rust.
 - 🌱 **Currently Learning**: POSIX interfaces, and terminal emulation alongside my coursework.
 - 🚀 **Interests**: Low level design, machine learning, game development, and open-source projects.
