@@ -1,6 +1,6 @@
 Sophomore student. Passionate about systems development, and low level design.
 
-## About Me
+## self.about
 
 - 🎓 **Education**: Pursuing a Bachelor's degree in Computer Science and Engineering.
 - 💻 **Programming Languages**: C/C++, Python, Java.
