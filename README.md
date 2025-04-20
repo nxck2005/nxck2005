@@ -1,4 +1,4 @@
-Sophomore student. Passionate about systems development, and low level design.
+Sophomore student. Passionate about low level design.
 
 ## self.about
 
