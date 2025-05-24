@@ -3,7 +3,7 @@ Sophomore student. Passionate about low level design.
 ## self.about
 
 - 🎓 **Education**: Pursuing a Bachelor's degree in Computer Science and Engineering.
-- 💻 **Programming Languages**: C/C++, Python, Java.
+- 💻 **Programming Languages**: Python, Java, and a bit of C/C++.
 - 🌱 **Currently Learning**: Rust, JS, terminal emulation, and machine learning alongside my coursework.
 - 🚀 **Interests**: Low level design, machine learning.
 <!-- - 📫 **How to reach me**: You can email me at nxckmusicprod@gmail.com.-->
