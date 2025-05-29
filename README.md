@@ -1,4 +1,4 @@
-Junior student. Passionate about low level design.
+Junior year student. Passionate about low level design.
 
 ## self.about
 
