@@ -9,4 +9,4 @@ Junior student. Passionate about low level design.
 
 Feel free to reach out for interesting projects.
 
-> *"That appears... 0"*
+> *Science isn't about *why* - it's about *why not*. *Why* is so much of our science dangerous? Why not *marry* safe science if you love it so much? In fact, why not invent a special safety door that won't hit you in the butt on the way out, because *you are fired!* Not you, test subject. You're doing fine. [to someone else] Yes, *you*. Box. Your stuff. Out the front door. Parking lot. Car. Goodbye.*
