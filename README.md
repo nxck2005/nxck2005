@@ -9,4 +9,4 @@ Junior student. Passionate about low level design.
 
 Feel free to reach out for interesting projects.
 
-> *"That appears... untrue"*  
+> *"That appears... 0"*  
