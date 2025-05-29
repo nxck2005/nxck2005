@@ -9,5 +9,4 @@ Junior student. Passionate about low level design.
 
 Feel free to reach out for interesting projects.
 
-> *"What I cannot create, I do not understand."*  
-> *— Richard P. Feynman*
+> *"That appears... untrue"*  
