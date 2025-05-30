@@ -1,4 +1,4 @@
-Junior year student. Passionate about low level design.
+Junior year student. Passionate about low level design, and machine learning.
 
 ## self.about
 
