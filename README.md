@@ -4,7 +4,7 @@ Junior year student. Passionate about low level design, ML, and algorithmic thin
 
 - 🎓 **Education**: Pursuing a Bachelor's degree in Computer Science and Engineering.
 - 💻 **Programming Languages**: Python, Java, C++.
-- 🌱 **Currently Learning**: Rust, JavaScript, computer architecture and web development alongside my coursework.
+- 🌱 **Currently Learning**: DS&A, Rust, JavaScript, computer architecture and web development alongside my coursework.
 - 🚀 **Interests**: Low level design, ML based architectures, game development, and embedded systems.
 
 Feel free to reach out for interesting projects.
