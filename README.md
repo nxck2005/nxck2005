@@ -1,4 +1,4 @@
-Junior year student. Passionate about low level design, ML, and algorithmic thinking.
+Pre-final year student. Passionate about low level design, ML, and algorithmic thinking.
 
 ## self.about
 
