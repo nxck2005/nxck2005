@@ -1,4 +1,4 @@
-Pre-final year CS undergrad. Passionate about low level design, ML, and algorithmic thinking.
+Pre-final year CS undergraduate. Passionate about low level design, ML, and algorithmic thinking.
 
 ## self.about
 
