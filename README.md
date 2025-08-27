@@ -4,7 +4,7 @@ Pre-final year CS undergraduate. Passionate about low level design, ML, and algo
 
 - 🎓 **Education**: Pursuing a Bachelor's degree in Computer Science and Engineering.
 - 💻 **Programming Languages**: Python, Java, C++.
-- 🌱 **Currently Learning**: DS&A, Rust, JavaScript, computer architecture and web development alongside my coursework.
+- 🌱 **Currently Learning**: DS&A, Rust, computer architecture alongside my coursework.
 - 🚀 **Interests**: Low level design, ML based architectures, game development, and embedded systems.
 
 Feel free to reach out for interesting projects.
