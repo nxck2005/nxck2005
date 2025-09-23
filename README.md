@@ -1,11 +1,11 @@
-Pre-final year CS undergraduate. Passionate about low level design, ML, and algorithmic thinking.
+Pre-final year CS undergraduate. Passionate about low level design and algorithmic thinking.
 
 ## self.about
 
 - 🎓 **Education**: Pursuing a Bachelor's degree in Computer Science and Engineering.
 - 💻 **Programming Languages**: Python, Java, C++.
 - 🌱 **Currently Learning**: Golang, image processing, computer architecture alongside my coursework.
-- 🚀 **Interests**: Low level design, ML based architectures, game development, and embedded systems.
+- 🚀 **Interests**: Low level design, statistical computing/machine learning, game development, and embedded systems.
 
 Feel free to reach out for interesting projects.
 
