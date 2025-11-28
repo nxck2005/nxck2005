@@ -2,7 +2,7 @@ Pre-final year CS undergraduate student. Passionate about low level design.
 
 ## self.about
 
-- Pursuing a Bachelor's degree in Computer Science and Engineering.
+- Pursuing my undergrad in Computer Science and Engineering.
 - I write C++ and Java, and Python occasionally for some scripting.
 - Learning Go and Zig for a more comprehensive systems tech stack + image processing, computer architecture for hobbies and my coursework.
 
