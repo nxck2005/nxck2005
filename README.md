@@ -1,5 +1,5 @@
 Pre-final year CS undergraduate student. Passionate about low level design.
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nxck2005.nxck2005)
+
 ## self.about
 
 - Pursuing my undergrad in Computer Science and Engineering.
@@ -9,3 +9,5 @@ Pre-final year CS undergraduate student. Passionate about low level design.
 > *Science isn't about **why** - it's about **why not**. **Why** is so much of our science dangerous? Why not **marry** safe science if you love it so much? In fact, why not invent a special safety door that won't hit you in the butt on the way out, because **you are fired!** Not you, test subject. You're doing fine. [to someone else] Yes, **you**. Box. Your stuff. Out the front door. Parking lot. Car. Goodbye.*
 
 *- Cave Johnson, Aperture Science*
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nxck2005.nxck2005)
