@@ -1,5 +1,5 @@
 Pre-final year CS undergraduate student. Passionate about low level design.
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nxck2005.nxck2005)
 ## self.about
 
 - Pursuing my undergrad in Computer Science and Engineering.
