@@ -1,6 +1,6 @@
 Pre-final year CS undergraduate student. Passionate about low level design.
 
-## ```self.about```
+## ```self->about```
 
 - Pursuing my undergrad in Computer Science and Engineering.
 - I write C++ and Java, and Python occasionally for some scripting.
