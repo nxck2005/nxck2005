@@ -1,4 +1,4 @@
-Pre-final year CS undergraduate student. Passionate about low level design.
+Final year CS undergraduate student. Passionate about low level design.
 
 ## ```self->about```
 
